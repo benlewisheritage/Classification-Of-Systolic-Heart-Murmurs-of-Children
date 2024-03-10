@@ -1,0 +1,12 @@
+Accuracy: 0.457399
+Precision: 0.557692
+Recall: 0.228346
+Fscore: 0.324022
+Confusion Matrix: 
+29, 23
+98, 73
+Period Classification: 
+4988, 6847
+Period Confusion Matrix: 
+2930, 2058
+3945, 2902

@@ -1,0 +1,12 @@
+Valid Text File Number: 322
+Bias-Removed Text File Number: 322
+Test Data File Nuber: 56
+Train Data File Nuber: 266
+Full Audio Training File Number: 926
+Quantity of Murmur detection types For full audio of Dataset:
+109, 293
+26, 497
+Number of Heart Beat Periods in Training Data: 13413
+Quantity of Murmur detection types For snippets of Dataset:
+1665, 4275
+443, 7030
